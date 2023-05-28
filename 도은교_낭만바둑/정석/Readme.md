@@ -5,3 +5,6 @@
 3. [초반 30수 - 유창혁 vs 야마시로 히로시 1996.01.09 진로배 세계바둑최강전](https://youtu.be/GDZj-SuIMtI)
 
 4. [포석 가이드 - 루이나이웨이 vs 최규병 99.08.25 국수전 본선3국](https://youtu.be/eo71DfESfG8)
+
+5. [[화점정석(1)] 알기쉬운 화점정석 마스터 해볼게요~~ #화점정석#바둑강좌#바둑정석](https://youtu.be/E9iTBM4sT6w?list=PLYSlA25m2jfxGPP2lyJVnaniqg_7n6_KL)
+    - [Note](./Note/%ED%99%94%EC%A0%90%EC%A0%95%EC%84%9D1.md)

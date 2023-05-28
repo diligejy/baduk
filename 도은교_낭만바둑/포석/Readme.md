@@ -1,0 +1,1 @@
+1. [[포석강좌(1)] 이세돌9단과 이창호9단의 모범포석을 소개합니다~~ #바둑포석#바둑기초#바둑판짜기](https://youtu.be/OIt1ycvLlmk?list=PLYSlA25m2jfyxMaLKT1xFcfGqSobvRTRx)
