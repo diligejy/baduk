@@ -8,3 +8,6 @@
 
 5. [[화점정석(1)] 알기쉬운 화점정석 마스터 해볼게요~~ #화점정석#바둑강좌#바둑정석](https://youtu.be/E9iTBM4sT6w?list=PLYSlA25m2jfxGPP2lyJVnaniqg_7n6_KL)
     - [Note](./Note/%ED%99%94%EC%A0%90%EC%A0%95%EC%84%9D1.md)
+
+6. [[화점정석(2)] 두칸협공/세칸높은협공 #화점정석#바둑기초#바둑정석](https://youtu.be/tRsWo0DIcrQ?list=PLYSlA25m2jfzmIZmTvIKjKrGjt8bBLQiF)
+    - [Note](./Note/화점정석2_두칸협공_세칸높은협공.md)
